@@ -1,4 +1,5 @@
 #Terminal Operations
+
 The Terminal operations  that trigger the processing of a stream and produce a result or a side-effect. Once a terminal operation is invoked, the stream is considered consumed and can no longer be used.
 
 #List of Terminal operations
